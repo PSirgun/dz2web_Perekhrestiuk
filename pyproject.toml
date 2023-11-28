@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "dz2web-v1"
-version = "0.1.0"
+name = "dz2web-v4"
+version = "0.1.4"
 description = ""
 authors = ["PSirgun <Sirgun28@gmail.com>"]
 readme = "README.md"
