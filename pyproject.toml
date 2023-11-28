@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dz2web-v1"
+version = "0.1.0"
+description = ""
+authors = ["PSirgun <Sirgun28@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11"
+prompt-toolkit = "3.0.41"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
